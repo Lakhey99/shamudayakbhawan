@@ -1,0 +1,33 @@
+body{
+	margin:0;
+	background-color: #f1f1f1;
+}
+header{
+	background-color: skyblue;
+	padding:20px;
+	color:white;
+
+}
+
+nav{
+	overflow: hidden;
+	background-color: #333;
+}
+nav a{
+	float:right;
+	color:white;
+	padding:15px;
+	padding-left: 50px;
+}
+marquee{
+	background-color: #ffc300;
+	padding:8px;
+}
+footer{
+	background-color: 00CED1;
+	color:808080;
+	padding:10px;
+}
+a:hover{
+	background: blue;
+}
